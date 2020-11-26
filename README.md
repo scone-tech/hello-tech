@@ -1,9 +1,7 @@
-## About Sublist3r 
+## About hello-tech;
 
 hello-tech is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. hello-tech enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. hello-tech also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
 .
-
-## By Hello-tech;
 
 
 ## Installation
