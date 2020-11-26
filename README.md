@@ -155,7 +155,7 @@ The main function will return a set of unique subdomains found by Sublist3r
 
 Example to enumerate subdomains of Yahoo.com:
 ```python
-import helo-tech 
+import hello-tech 
 subdomains = hello-tech.main('yahoo.com', 40, 'yahoo_subdomains.txt', ports= None, silent=False, verbose= False, enable_bruteforce= False, engines=None)
 ```
 
