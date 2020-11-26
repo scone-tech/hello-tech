@@ -140,7 +140,7 @@ Short Form    | Long Form     | Description
 
 ```python
 import hello-tech 
-subdomains = sublist3r.main(domain, no_threads, savefile, ports, silent, verbose, enable_bruteforce, engines)
+subdomains = hello-tech.main(domain, no_threads, savefile, ports, silent, verbose, enable_bruteforce, engines)
 ```
 The main function will return a set of unique subdomains found by Sublist3r
 
