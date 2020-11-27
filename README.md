@@ -163,7 +163,7 @@ subdomains = hello-tech.main('yahoo.com', 40, 'yahoo_subdomains.txt', ports= Non
 
 ## Credits
 
-* [albanians cyber securty](https://instagram.com/hello_tech)  
+* [albanians cyber securty](https://instagram.com/scone_tech)  
 
 ## Version
 **Current version is 1.0**
