@@ -17,7 +17,7 @@ hello-tech currently supports **Python 2** and **Python 3**.
 * The recommended version for Python 2 is **2.7.x**
 * The recommended version for Python 3 is **3.4.x**
 
-## lenti tech:
+## Dependencies:
 
 hello-tech depends on the `requests`, `dnspython` and `argparse` python modules.
 
