@@ -159,14 +159,11 @@ import hello-tech
 subdomains = hello-tech.main('yahoo.com', 40, 'yahoo_subdomains.txt', ports= None, silent=False, verbose= False, enable_bruteforce= False, engines=None)
 ```
 
-## License
-
-Hello tech is licensed under the GNU GPL license. take a look at the [LICENSE](https://github.com/scone-tech/blob/master/LICENSE) for more information.
 
 
 ## Credits
 
-* [hello-tech](https://github.com/hello-tech)  
+* [albanians cyber securty](https://instagram.com/hello-tech)  
 
 ## Version
 **Current version is 1.0**
