@@ -17,7 +17,7 @@ hello-tech currently supports **Python 2** and **Python 3**.
 * The recommended version for Python 2 is **2.7.x**
 * The recommended version for Python 3 is **3.4.x**
 
-## Dependencies:
+## lenti tech:
 
 hello-tech depends on the `requests`, `dnspython` and `argparse` python modules.
 
@@ -31,7 +31,7 @@ c:\python27\python.exe -m pip install -r requirements.txt
 ```
 sudo pip install -r requirements.txt
 ```
-##lenti-tech
+
 Alternatively, each module can be installed independently as shown below.
 
 #### Requests Module (http://docs.python-requests.org/en/latest/)
