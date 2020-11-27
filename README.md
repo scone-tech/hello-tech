@@ -31,7 +31,7 @@ c:\python27\python.exe -m pip install -r requirements.txt
 ```
 sudo pip install -r requirements.txt
 ```
-#lenti-tech
+##lenti-tech
 Alternatively, each module can be installed independently as shown below.
 
 #### Requests Module (http://docs.python-requests.org/en/latest/)
